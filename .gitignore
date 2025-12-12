@@ -24,3 +24,4 @@ coverage/*
 temp
 docs/gitbook/api
 package-lock.json
+config.bat
