@@ -5,6 +5,6 @@
 'use strict';
 
 module.exports = async function (job) {
-  const values = await job.getIgnoredChildrenFailures();
-  return values;
+  const count = await job.getDependenciesCount();
+  return count;
 };
