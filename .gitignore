@@ -24,7 +24,6 @@ apiVersions/v6.json
 
 # Editor directories and files
 .idea
-.vscode
 *.suo
 *.ntvs*
 *.njsproj
@@ -33,3 +32,4 @@ apiVersions/v6.json
 temp
 docs/gitbook/api
 package-lock.json
+config.bat
