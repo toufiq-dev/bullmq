@@ -33,3 +33,4 @@ apiVersions/v5.json
 temp
 docs/gitbook/api
 package-lock.json
+config.bat
