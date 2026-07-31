@@ -137,7 +137,7 @@
     "fast-glob": "3.3.3",
     "globals": "17.8.0",
     "husky": "9.1.7",
-    "ioredis": "5.11.1",
+    "ioredis": "6.0.0",
     "lint-staged": "17.2.0",
     "madge": "8.0.0",
     "minimatch": "10.2.6",
@@ -154,7 +154,7 @@
     "test-console": "2.0.0",
     "ts-node": "10.9.2",
     "typedoc": "0.28.20",
-    "typescript": "5.9.3",
+    "typescript": "6.0.3",
     "vitepress": "1.6.4",
     "vitest": "4.1.10"
   },
