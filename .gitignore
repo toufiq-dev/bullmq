@@ -3,6 +3,7 @@ node_modules
 /dist
 /rawScripts
 /src/scripts
+/src/postgres/sql-scripts.ts
 /rust/src/commands
 # Log files
 npm-debug.log*
@@ -24,7 +25,6 @@ apiVersions/v6.json
 
 # Editor directories and files
 .idea
-.vscode
 *.suo
 *.ntvs*
 *.njsproj
@@ -33,3 +33,4 @@ apiVersions/v6.json
 temp
 docs/gitbook/api
 package-lock.json
+config.bat
